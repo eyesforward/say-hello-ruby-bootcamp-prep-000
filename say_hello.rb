@@ -1,2 +1,4 @@
-def say_hello.rb
-  
+def say_hello(name).rb
+  puts "Hello, #{name}!"
+end
+say_hello("Gabriella")
