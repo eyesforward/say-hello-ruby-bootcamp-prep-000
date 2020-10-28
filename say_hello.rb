@@ -6,3 +6,4 @@ say_hello
 
 say_hello ("Kent Beck")
 
+say_hello ("Gabriella")
